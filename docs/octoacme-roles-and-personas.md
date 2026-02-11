@@ -75,7 +75,63 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Masters
+
+### Role Summary
+Scrum Masters enable the team to follow Agile principles and remove impediments that slow delivery. They coach the team on continuous improvement, facilitate ceremonies, and foster healthy team dynamics.
+
+### Responsibilities
+
+- Facilitate Scrum ceremonies (standups, sprint planning, reviews, retrospectives)
+- Identify and remove delivery blockers
+- Ensure Agile practices are followed consistently
+- Support continuous improvement and team health
+- Protect the team from scope creep and unplanned disruptions
+
+### Goals
+
+- Improve team velocity and predictability
+- Strengthen communication and collaboration
+- Foster a psychologically safe environment
+- Ensure sustainable pace of delivery
+
+### Typical Communication
+
+- Daily updates on blockers/risks
+- Sprint planning and retrospective insights
+- Collaboration with PMs and developers on delivery issues
+
+---
+
+## UX Designers
+
+### Role Summary
+UX Designers create intuitive, accessible, and user-centered experiences. They translate user needs into workflows, prototypes, and interfaces that guide development.
+
+### Responsibilities
+
+- Conduct user research and usability studies
+- Create wireframes, prototypes, and interaction flows
+- Define UX/UI standards and accessibility guidelines
+- Partner with PMs and developers to refine requirements
+- Validate designs through feedback loops
+
+### Goals
+
+- Deliver intuitive, accessible, and delightful user experiences
+- Ensure designs meet both business and user needs
+- Reduce rework by clarifying interface expectations early
+
+### Typical Communication
+
+- Design reviews and walkthroughs
+- Sharing prototypes and user research summaries
+- Asynchronous comments on tickets and design tools
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+
 
